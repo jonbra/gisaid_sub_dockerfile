@@ -13,6 +13,7 @@ reshape2 1.4.4,
 msa 1.32.0,  
 seqinr 4.2-30,  
 writexl 1.4.2,  
+odbc 1.3.4
 
 Get the image from Docker Hub by running
 ```
